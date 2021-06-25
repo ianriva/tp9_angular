@@ -1,0 +1,14 @@
+.sizeImg{
+    max-width: 150px;
+    max-height: 150px;
+}
+.gratis {
+    color: #00bd4f;
+  }
+  .costoEnvio {
+    color: #e94d05;
+  }
+  .precio{
+      font-size: 22px;
+      font-family: Arial, Helvetica, sans-serif;
+  }
